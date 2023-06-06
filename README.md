@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I am a seasoned Full Stack Engineer currently residing in Eindhoven, Netherlands.
+Welcome to my GitHub profile! I am a seasoned Full Stack Engineer with a Bachelor's degree on Computer Engineering currently residing in Eindhoven, Netherlands.
 
 ## 🚀 About Me
 
